@@ -71,7 +71,7 @@ this project does not currently have any tests
 https://github.com/keith-mikel/portfolio
 
 ## Link to App
- https://fierce-savannah-65410-f993d5138daf.herokuapp.com/  
+ https://main--zippy-tapioca-b63ba8.netlify.app/Resume
 
 <a name="contact"></a>
 ## Contact Information 

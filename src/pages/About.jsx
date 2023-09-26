@@ -8,7 +8,7 @@ export default function About() {
           <div className="row">
             <div className="col-md-4">
               <img
-                src="/src/assets/keith.jpg" // Replace with the actual image source
+                src="src/assets/keith.jpg"
                 alt="About Me"
                 className="about-image img-fluid rounded-circle"
               />
