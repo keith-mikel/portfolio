@@ -7,7 +7,7 @@ function Projects() {
   const projects = [
     {
       title: 'Weather App',
-      screenshotSrc: '../../src/assets/weatherapp.png',
+      screenshotSrc: '../assets/weatherapp.png',
       githubLink: 'https://github.com/keith-mikel/weather-app',
       techUsed: ['JavaScript', 'Node.js', 'Local Storage'],
       appLink: 'Local Only'
@@ -21,7 +21,7 @@ function Projects() {
     },
     {
       title: 'ByteBook',
-      screenshotSrc: 'src\assets\byteBook.png',
+      screenshotSrc: 'src/assets/byteBook.png',
       githubLink: 'https://github.com/keith-mikel/ByteBook',
       techUsed: ['JavaScript', 'MongoDB', 'ExpressJS'],
       appLink: 'API Only'
