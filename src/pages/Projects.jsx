@@ -21,7 +21,7 @@ function Projects() {
     },
     {
       title: 'ByteBook',
-      screenshotSrc: 'src/assets/byteBook.png',
+      screenshotSrc: 'src/assets/bytebook.png',
       githubLink: 'https://github.com/keith-mikel/ByteBook',
       techUsed: ['JavaScript', 'MongoDB', 'ExpressJS'],
       appLink: 'API Only'

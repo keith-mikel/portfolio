@@ -8,6 +8,7 @@ function ProjectCard({ title, screenshotSrc, githubLink, techUsed, appLink }) {
   const imgStyle = {
     height: '200px',
     objectFit: 'cover', 
+    objectPosition: 'top'
   };
 
   return (
