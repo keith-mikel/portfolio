@@ -1,12 +1,13 @@
 import React from 'react';
 import ProjectCard from '../components/ProjectCard'; // Import the ProjectCard component
 
+
 function Projects() {
   // Define an array of project data
   const projects = [
     {
       title: 'Weather App',
-      screenshotSrc: 'src/assets/weatherapp.png',
+      screenshotSrc: '../../src/assets/weatherapp.png',
       githubLink: 'https://github.com/keith-mikel/weather-app',
       techUsed: ['JavaScript', 'Node.js', 'Local Storage'],
       appLink: 'Local Only'
