@@ -1,6 +1,11 @@
 import React from 'react';
 import ProjectCard from '../components/ProjectCard'; // Import the ProjectCard component
 import weatherpic from '../assets/weatherapp.png'
+import fakebookrpic from '../assets/fakebook.png'
+import bytebookpic from '../assets/bytebook.png'
+import notepadpic from '../assets/netepad.png'
+import employeepic from '../assets/employeemanagement.png'
+
 
 function Projects() {
   // Define an array of project data
@@ -14,35 +19,35 @@ function Projects() {
     },
     {
       title: 'FakeBook',
-      screenshotSrc: 'src/assets/fakebook.png',
+      screenshotSrc: fakebookrpic,
       githubLink: 'https://github.com/keith-mikel/fakebook',
       techUsed: ['JavaScript', 'Sentiment Analysis', 'MySQL'],
       appLink: 'https://lit-lake-04791-83df15b980e5.herokuapp.com/'
     },
     {
       title: 'ByteBook',
-      screenshotSrc: 'src/assets/bytebook.png',
+      screenshotSrc: bytebookpic,
       githubLink: 'https://github.com/keith-mikel/ByteBook',
       techUsed: ['JavaScript', 'MongoDB', 'ExpressJS'],
       appLink: 'API Only'
     },
     {
       title: 'Tech Blog',
-      screenshotSrc: 'src/assets/byteBook.png',
+      screenshotSrc: bytebookpic,
       githubLink: 'https://github.com/keith-mikel/tech-blog',
       techUsed: ['JavaScript', 'MySql', 'ExpressJS'],
       appLink: 'API Only'
     },
     {
       title: 'Note Pad',
-      screenshotSrc: 'src/assets/notepad.png',
+      screenshotSrc: notepadpic,
       githubLink: 'https://github.com/keith-mikel/notepad',
       techUsed: ['JavaScript', 'API', 'ExpressJS'],
       appLink: 'https://fierce-savannah-65410-f993d5138daf.herokuapp.com/'
     },
     {
       title: 'Employee Management',
-      screenshotSrc: 'src/assets/employeemanagement.png',
+      screenshotSrc: employeepic,
       githubLink: 'https://github.com/keith-mikel/employee-management',
       techUsed: ['JavaScript', 'CLI', 'ExpressJS'],
       appLink: 'CLI Only'
