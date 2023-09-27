@@ -3,7 +3,7 @@ import ProjectCard from '../components/ProjectCard'; // Import the ProjectCard c
 import weatherpic from '../assets/weatherapp.png'
 import fakebookrpic from '../assets/fakebook.png'
 import bytebookpic from '../assets/bytebook.png'
-import notepadpic from '../assets/netepad.png'
+import notepadpic from '../assets/notepad.png'
 import employeepic from '../assets/employeemanagement.png'
 
 
