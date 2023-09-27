@@ -1,4 +1,5 @@
 import React from 'react';
+import keith from '../assets/keith.png'
 
 export default function About() {
   return (
@@ -8,7 +9,7 @@ export default function About() {
           <div className="row">
             <div className="col-md-4">
               <img
-                src="src/assets/keith.jpg"
+                src= {keith}
                 alt="About Me"
                 className="about-image img-fluid rounded-circle"
               />
