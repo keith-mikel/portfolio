@@ -1,5 +1,5 @@
 import React from 'react';
-import keith from '../assets/keith.png'
+import keith from '../assets/keith.jpg'
 
 export default function About() {
   return (
@@ -9,7 +9,7 @@ export default function About() {
           <div className="row">
             <div className="col-md-4">
               <img
-                src= {keith}
+                src= { keith }
                 alt="About Me"
                 className="about-image img-fluid rounded-circle"
               />
