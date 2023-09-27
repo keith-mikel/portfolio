@@ -2,7 +2,7 @@ import React from 'react';
 import ProjectCard from '../components/ProjectCard'; // Import the ProjectCard component
 import weatherpic from '../assets/weatherapp.png'
 import fakebookrpic from '../assets/fakebook.png'
-import bytebookpic from '../assets/bytebook.png'
+import bytebookpic from '../assets/byteBook.png'
 import notepadpic from '../assets/notepad.png'
 import employeepic from '../assets/employeemanagement.png'
 
