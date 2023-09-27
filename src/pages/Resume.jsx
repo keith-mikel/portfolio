@@ -1,11 +1,10 @@
 import React from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
-import resume from '../assets/Resume20221111.pdf'
+import resumePdf from '../assets/Resume20221111.pdf'
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 function Resume() {
-  const resumePdf = resume; // Replace with the path to your PDF file
 
   const handleDownload = () => {
     // Trigger a download of the PDF file
